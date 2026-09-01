@@ -4,6 +4,15 @@ A machine learning web application that predicts the likelihood of heart disease
 
 The project uses **K-Nearest Neighbors (KNN)** as the prediction model and provides an interactive interface built with **Streamlit**.
 
+## 🚀 Live Demo
+
+Try the deployed Heart Disease Prediction application:
+
+**[❤️ Open Heart Disease Prediction App](https://heart-disease-prediction-g3yq7siybu2wpflzz5ebae.streamlit.app/)**
+
+The application allows users to enter patient health information and receive a machine-learning-based heart disease risk prediction.
+
+
 ---
 
 ## 🚀 Live Project
@@ -15,6 +24,7 @@ streamlit run app.py
 ```
 
 ---
+
 
 ## 📌 Project Overview
 
